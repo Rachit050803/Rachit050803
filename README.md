@@ -1,9 +1,9 @@
 # 💫 About Me:
-I'm interested in machine learning and the kinds of problems it opens up. My work touches on deep learning, statistical modeling, and audio signal processing, and I tend to gravitate toward projects where there's something interesting happening at the intersection of math and engineering.
+I am deeply interested in machine learning and the diverse problems it can solve. My work spans deep learning, statistical modeling, and applied artificial intelligence. I naturally gravitate toward challenges where complex mathematics meets practical software engineering.
 
-I work primarily in Python and R, using TensorFlow/Keras and scikit-learn to build and experiment with models ranging from classical algorithms to architectures like CNNs, LSTM-RNNs, and attention mechanisms. Audio and music intelligence is a space I keep coming back to.
+I build and experiment with a wide variety of models using Python, R, PyTorch, and TensorFlow. My focus is on applying these tools to distinct domains, whether that involves classifying audio signals, designing predictive systems for server infrastructure, or developing automated trading agents.
 
-I like understanding how things work under the hood, not just getting them to run.br>
+I care about understanding how systems work under the hood rather than just getting them to run. From engineering robust data preprocessing pipelines to distinguishing intricate patterns in sonar data, I enjoy the entire lifecycle of turning raw information into intelligent architecture.br>
 
 
 ## 🌐 Socials:
