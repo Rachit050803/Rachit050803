@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on Agentic models and ML solutions<br>
+I'm interested in machine learning and the kinds of problems it opens up. My work touches on deep learning, statistical modeling, and audio signal processing, and I tend to gravitate toward projects where there's something interesting happening at the intersection of math and engineering.
+
+I work primarily in Python and R, using TensorFlow/Keras and scikit-learn to build and experiment with models ranging from classical algorithms to architectures like CNNs, LSTM-RNNs, and attention mechanisms. Audio and music intelligence is a space I keep coming back to.
+
+I like understanding how things work under the hood, not just getting them to run.br>
 
 
 ## 🌐 Socials:
